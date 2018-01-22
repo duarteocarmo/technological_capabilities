@@ -11,5 +11,7 @@ These two examples are proof that the successful mapping and understanding of th
 
 
 
+This project is a WIP and will be published [here](https://duarteocarmo.gitbooks.io/measuring-the-uniqueness-of-technological-capabil/content/).
+
 Duarte O.Carmo for [Technical University of Denmark](http://www.dtu.dk/english)
 
