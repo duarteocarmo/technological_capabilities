@@ -84,6 +84,7 @@ for category in process_variables:
 # http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing-normalization
 normalized_matrix = (matrix - np.mean(matrix)) / np.std(matrix)
 
+
 def check_symmetric(a, tol):
     return np.allclose(a, a.T, atol=tol)
 
