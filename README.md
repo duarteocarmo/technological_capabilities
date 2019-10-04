@@ -2,6 +2,8 @@
 
 ###  A data-driven network exploration
 
+_Note: These notebooks use python 2.7_
+
 This thesis project is related to two more general projects that are being developed in the context of the European Union and DTU that mix the above mentioned fields: 
 
 - [EURITO](http://cordis.europa.eu/project/rcn/211945_en.html): This project seeks to explore the opportunities that Big Data and analyitics offer to transform R&I policy. Such opportunities include better targeting of policies, the discovery of new innovation opportunities, and more importantly, an enhanced understanding of innovation systems. 
